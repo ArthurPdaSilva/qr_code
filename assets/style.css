@@ -45,6 +45,7 @@ input:focus {
 
 button {
   background-color: #247ba0;
+  cursor: pointer;
   color: #fffcff;
 }
 
